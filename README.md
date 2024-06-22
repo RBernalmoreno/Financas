@@ -12,7 +12,7 @@ Olá, pessoal! Sou Rogério Bernal, um entusiasta da programação e da ciência
 
 ### Minhas Estatísticas no GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBernalmoreno&show_icons=true&theme=radical)
 
 ### Objetivo
 
