@@ -8,7 +8,17 @@ Olá, pessoal! Sou Rogério Bernal, um entusiasta da programação e da ciência
 
 Meu objetivo é continuar a aprender e aplicar técnicas avançadas de ciência de dados, utilizando plataformas colaborativas como o GitHub para versionamento e compartilhamento de projetos. Pretendo não apenas contribuir para a comunidade, mas também desenvolver produtos financeiros inovadores, aplicando inteligência artificial para gerar insights de valor.
 
+### Minhas Estatísticas no GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
 ![Investment Growth](https://github.com/RBernalmoreno/Pessoal/blob/main/investment_growth2.gif)
+
+### Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Projetos Recentes
 
